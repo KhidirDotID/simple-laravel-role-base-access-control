@@ -13,6 +13,9 @@
 ```
 * Download/Clone the repository
 * run composer install
+* run cp .env.example .env
+* update your db config
+* then run php artisan migrate --seed
 ```
 
 ## Usage
